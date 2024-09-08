@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevinsabuzs
-- 👀 I’m interested in buiLding apps and try to make new games
+- 👀 I’m interested in building apps and try to make new games
 - 🌱 I’m currently learning c++,c and java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me linkedin :KEVIN SABU
